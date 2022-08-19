@@ -1,5 +1,6 @@
 
 [![Build Status](https://dev.azure.com/edaa-eudl-devops/edaa-eudl-degi/_apis/build/status/2Sbay-Team.pipelines-java?branchName=main)](https://dev.azure.com/edaa-eudl-devops/edaa-eudl-degi/_build/latest?definitionId=1159&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
